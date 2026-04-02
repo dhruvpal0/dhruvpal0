@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhruv-pal-59b584253/" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="28" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/rock._dhruv_" title="Instagram">
