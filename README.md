@@ -19,7 +19,7 @@
     <img src="https://cdn.simpleicons.org/x/white" height="28" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:dhruv@peerlynk.com" title="Email">
+  <a href="mailto:pal664908@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" />
   </a>
 </p>
@@ -56,6 +56,10 @@ Founder of **peerlynk** – building the future of academic social networking.
   &nbsp;
   <a href="https://github.com/peerlynk" title="GitHub">
     <img src="https://cdn.simpleicons.org/github/white" height="24" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/peerlynk" title="X (Twitter)">
+    <img src="https://cdn.simpleicons.org/x/white" height="24" />
   </a>
   &nbsp;
   <a href="#" title="Android App">
