@@ -1,32 +1,34 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B+I'm+Dhruv+Pal;Founder+at+peerlynk+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B+I'm+Dhruv+Pal.;Founder+at+Peerlynk!+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://github.com/dhruvpal0" title="GitHub">
     <img src="https://cdn.simpleicons.org/github/white" height="28" />
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp; -->
   <a href="https://www.linkedin.com/in/dhruv-pal-59b584253/" title="LinkedIn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="28" />
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp; -->
   <a href="https://instagram.com/rock._dhruv_" title="Instagram">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" />
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp; -->
   <a href="https://x.com/Dhruv_Pal0" title="X (Twitter)">
     <img src="https://cdn.simpleicons.org/x/white" height="28" />
   </a>
-  &nbsp;&nbsp;
+  <!-- &nbsp;&nbsp; -->
   <a href="mailto:pal664908@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" />
   </a>
 </p>
 
+<p align="center">
+A passionate student developer and tech enthusiast from **Delhi, India**.  
+</p>
 ---
 
-A passionate student developer and tech enthusiast from **Delhi, India**.  
 Founder of **peerlynk** – building the future of academic social networking.
 
 ---
@@ -87,4 +89,4 @@ Founder of **peerlynk** – building the future of academic social networking.
 
 <p align="center">
   <i>⚡ Crafting the future, one scalable system at a time.</i>
-</p>>
+</p>
