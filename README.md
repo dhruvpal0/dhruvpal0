@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B+I'm+Dhruv+Pal;Full+Stack+Dev+%F0%9F%9A%80;Building+peerlynk+%F0%9F%8C%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B+I'm+Dhruv+Pal;Founder+at+peerlynk+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -8,25 +8,38 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhruv-pal-59b584253/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/rock._dhruv_" title="Instagram">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/dhruvpal" title="X (Twitter)">
+    <img src="https://cdn.simpleicons.org/x/white" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dhruv@peerlynk.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Quick Bio
-
-💻 Full Stack Dev · 🧩 AI + social platforms · ⚙️ System design · 📱 Mobile-first
+A passionate student developer and tech enthusiast from **Delhi, India**.  
+Founder of **peerlynk** – building the future of academic social networking.
 
 ---
 
-## 🔥 peerlynk – Academic Social Graph
+## 🔥 About peerlynk
 
-> Auto‑grouping · Real‑time chat · Professional profiles · Cross‑institution networking
+> **Next‑gen social graph for students, educators & institutions**
+
+- 🔗 Intelligent auto‑grouping (college, course, interests)  
+- 💬 Real‑time chat & community systems  
+- 📊 Professional student profiles  
+- 🌐 Cross‑institution networking layer  
+- 🤖 AI‑powered engagement *(coming soon)*
 
 <p align="left">
   <a href="https://peerlynk.com" title="Website">
@@ -34,7 +47,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/company/peerlynk" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="24" />
   </a>
   &nbsp;
   <a href="https://instagram.com/peerlynk" title="Instagram">
@@ -54,11 +67,11 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css,react,reactnative,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,prisma,git,socketio&perline=8" />
 </div>
 
-<p align="center">
+<p align="left">
   <i>✨ hover over any icon to see the name ✨</i>
 </p>
 
@@ -66,8 +79,8 @@
 
 ## 💡 Philosophy
 
-> **“Build systems that scale, evolve, and create impact — not just features.”**
+> “Build systems that scale, evolve, and create impact — not just features.”
 
 <p align="center">
   <i>⚡ Crafting the future, one scalable system at a time.</i>
-</p>
+</p>>
