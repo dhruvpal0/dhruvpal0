@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-A passionate student developer and tech enthusiast from **Delhi, India**.  
+A passionate student developer and tech enthusiast from Delhi, India.  
 </p>
 
 ---
