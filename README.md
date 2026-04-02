@@ -3,9 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhruvpal0"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dhruv-pal-59b584253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/rock._dhruv_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/dhruvpal0" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/white" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhruv-pal-59b584253/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/rock._dhruv_" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" />
+  </a>
 </p>
 
 ---
@@ -21,11 +29,25 @@
 > Auto‑grouping · Real‑time chat · Professional profiles · Cross‑institution networking
 
 <p align="left">
-  <a href="https://peerlynk.com"><img src="https://img.shields.io/badge/Website-000?style=flat-square&logo=vercel"/></a>
-  <a href="https://www.linkedin.com/company/peerlynk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/></a>
-  <a href="https://instagram.com/peerlynk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram"/></a>
-  <a href="https://github.com/peerlynk"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Android_App-3DDC84?style=flat-square&logo=android"/></a>
+  <a href="https://peerlynk.com" title="Website">
+    <img src="https://cdn.simpleicons.org/vercel/000" height="24" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/peerlynk" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/peerlynk" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="24" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/peerlynk" title="GitHub">
+    <img src="https://cdn.simpleicons.org/github/white" height="24" />
+  </a>
+  &nbsp;
+  <a href="#" title="Android App">
+    <img src="https://cdn.simpleicons.org/android/3DDC84" height="24" />
+  </a>
 </p>
 
 ---
@@ -37,27 +59,9 @@
 </div>
 
 <p align="center">
-  <i>hover over any icon → name appears</i>
+  <i>✨ hover over any icon to see the name ✨</i>
 </p>
 
-<style>
-  img[alt="skillicons"] {
-    transition: transform 0.2s ease;
-  }
-  img[alt="skillicons"]:hover {
-    transform: scale(1.1);
-  }
-</style>
-
----
-
-## 💡 Philosophy
-
-> **“Build systems that scale, evolve, and create impact — not just features.”**
-
-<p align="center">
-  <i>⚡ Crafting the future, one scalable system at a time.</i>
-</p>
 ---
 
 ## 💡 Philosophy
