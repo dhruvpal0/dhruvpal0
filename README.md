@@ -47,7 +47,7 @@ Founder of **peerlynk** – building the future of academic social networking.
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/company/peerlynk" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="24" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="24" />
   </a>
   &nbsp;
   <a href="https://instagram.com/peerlynk" title="Instagram">
