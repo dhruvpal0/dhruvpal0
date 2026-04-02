@@ -15,7 +15,7 @@
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/dhruvpal" title="X (Twitter)">
+  <a href="https://x.com/Dhruv_Pal0" title="X (Twitter)">
     <img src="https://cdn.simpleicons.org/x/white" height="28" />
   </a>
   &nbsp;&nbsp;
