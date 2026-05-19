@@ -22,6 +22,7 @@
   <a href="mailto:pal664908@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" />
   </a>
+  &nbsp; &nbsp;
   <a href="https://founder.peerlynk.com" title="GitHub">
     Portfolio
   </a>
@@ -49,9 +50,9 @@ Founder of **peerlynk** – building the future of academic social networking.
 - 🤖 AI‑powered engagement *(coming soon)*
 - <a href="https://about.peerlynk.com" title="Website">
    About
-  </a> <a href="https://admin.peerlynk.com" title="Website">
+  </a> &nbsp; <a href="https://admin.peerlynk.com" title="Website">
    Admin
-  </a> <a href="https://career.peerlynk.com" title="Website">
+  </a> &nbsp;  <a href="https://career.peerlynk.com" title="Website">
    Career
   </a>
 
